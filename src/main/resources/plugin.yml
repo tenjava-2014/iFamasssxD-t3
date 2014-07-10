@@ -1,0 +1,3 @@
+name: iFamasssxD-t3
+main: com.tenjava.entries.iFamasssxD.t3.TenJava
+version: '${project.version}'
